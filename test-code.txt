@@ -1,3 +1,9 @@
+git remote add origin [rmeote_url] / 
+
+git config [--global] user.name="crazy15824"
+git config [--global] user.email="crazy15824@gmail.com"
+
+
 git status   ### check the file change
 
 git add [specific_file_name] /  .
