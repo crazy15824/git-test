@@ -14,3 +14,4 @@ git commit -m "update the git-code file"
 git diff [specific_file_name] / .
 
  
+git log ## check the git commit history
