@@ -15,3 +15,7 @@ git diff [specific_file_name] / .
 
  
 git log ## check the git commit history
+
+git checkout -b <sub_branch_name> # create a subbranch from base branch
+
+
